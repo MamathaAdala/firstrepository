@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1707377799,,"wq!"
+|2,0,1707379274,,"wq!"
+:wq1
+|2,0,1707379259,,"wq1"
 :wq
 |2,0,1706082232,,"wq"
 
@@ -27,22 +29,56 @@
 # Registers:
 
 # File marks:
-'0  1  39  ~/demo123.csv
-|4,48,1,39,1707377799,"~/demo123.csv"
-'1  1  4  ~/.gitignore
-|4,49,1,4,1707377728,"~/.gitignore"
-'2  1  32  ~/demo.csv
-|4,50,1,32,1707377550,"~/demo.csv"
-'3  1  0  ~/demostash.txt
-|4,51,1,0,1706082232,"~/demostash.txt"
+'0  1  35  ~/demorevert.txt
+|4,48,1,35,1707379274,"~/demorevert.txt"
+'1  2  7  ~/demostash.txt
+|4,49,2,7,1707378476,"~/demostash.txt"
+'2  1  39  ~/demo123.csv
+|4,50,1,39,1707377799,"~/demo123.csv"
+'3  1  4  ~/.gitignore
+|4,51,1,4,1707377728,"~/.gitignore"
+'4  1  32  ~/demo.csv
+|4,52,1,32,1707377550,"~/demo.csv"
+'5  1  0  ~/demostash.txt
+|4,53,1,0,1706082232,"~/demostash.txt"
+'6  1  0  ~/demostash.txt
+|4,54,1,0,1706082232,"~/demostash.txt"
 
 # Jumplist (newest first):
+-'  1  35  ~/demorevert.txt
+|4,39,1,35,1707379274,"~/demorevert.txt"
+-'  2  7  ~/demostash.txt
+|4,39,2,7,1707378476,"~/demostash.txt"
+-'  2  7  ~/demostash.txt
+|4,39,2,7,1707378476,"~/demostash.txt"
+-'  1  0  ~/demostash.txt
+|4,39,1,0,1707378436,"~/demostash.txt"
+-'  1  0  ~/demostash.txt
+|4,39,1,0,1707378436,"~/demostash.txt"
+-'  1  39  ~/demo123.csv
+|4,39,1,39,1707377799,"~/demo123.csv"
+-'  1  39  ~/demo123.csv
+|4,39,1,39,1707377799,"~/demo123.csv"
+-'  1  39  ~/demo123.csv
+|4,39,1,39,1707377799,"~/demo123.csv"
 -'  1  39  ~/demo123.csv
 |4,39,1,39,1707377799,"~/demo123.csv"
 -'  1  4  ~/.gitignore
 |4,39,1,4,1707377728,"~/.gitignore"
 -'  1  4  ~/.gitignore
 |4,39,1,4,1707377728,"~/.gitignore"
+-'  1  4  ~/.gitignore
+|4,39,1,4,1707377728,"~/.gitignore"
+-'  1  4  ~/.gitignore
+|4,39,1,4,1707377728,"~/.gitignore"
+-'  1  4  ~/.gitignore
+|4,39,1,4,1707377728,"~/.gitignore"
+-'  1  4  ~/.gitignore
+|4,39,1,4,1707377728,"~/.gitignore"
+-'  1  4  ~/.gitignore
+|4,39,1,4,1707377728,"~/.gitignore"
+-'  1  4  ~/.gitignore
+|4,39,1,4,1707377728,"~/.gitignore"
 -'  1  32  ~/demo.csv
 |4,39,1,32,1707377550,"~/demo.csv"
 -'  1  32  ~/demo.csv
@@ -51,6 +87,46 @@
 |4,39,1,32,1707377550,"~/demo.csv"
 -'  1  32  ~/demo.csv
 |4,39,1,32,1707377550,"~/demo.csv"
+-'  1  32  ~/demo.csv
+|4,39,1,32,1707377550,"~/demo.csv"
+-'  1  32  ~/demo.csv
+|4,39,1,32,1707377550,"~/demo.csv"
+-'  1  32  ~/demo.csv
+|4,39,1,32,1707377550,"~/demo.csv"
+-'  1  32  ~/demo.csv
+|4,39,1,32,1707377550,"~/demo.csv"
+-'  1  32  ~/demo.csv
+|4,39,1,32,1707377550,"~/demo.csv"
+-'  1  32  ~/demo.csv
+|4,39,1,32,1707377550,"~/demo.csv"
+-'  1  32  ~/demo.csv
+|4,39,1,32,1707377550,"~/demo.csv"
+-'  1  32  ~/demo.csv
+|4,39,1,32,1707377550,"~/demo.csv"
+-'  1  32  ~/demo.csv
+|4,39,1,32,1707377550,"~/demo.csv"
+-'  1  32  ~/demo.csv
+|4,39,1,32,1707377550,"~/demo.csv"
+-'  1  32  ~/demo.csv
+|4,39,1,32,1707377550,"~/demo.csv"
+-'  1  32  ~/demo.csv
+|4,39,1,32,1707377550,"~/demo.csv"
+-'  1  0  ~/demostash.txt
+|4,39,1,0,1706082232,"~/demostash.txt"
+-'  1  0  ~/demostash.txt
+|4,39,1,0,1706082232,"~/demostash.txt"
+-'  1  0  ~/demostash.txt
+|4,39,1,0,1706082232,"~/demostash.txt"
+-'  1  0  ~/demostash.txt
+|4,39,1,0,1706082232,"~/demostash.txt"
+-'  1  0  ~/demostash.txt
+|4,39,1,0,1706082232,"~/demostash.txt"
+-'  1  0  ~/demostash.txt
+|4,39,1,0,1706082232,"~/demostash.txt"
+-'  1  0  ~/demostash.txt
+|4,39,1,0,1706082232,"~/demostash.txt"
+-'  1  0  ~/demostash.txt
+|4,39,1,0,1706082232,"~/demostash.txt"
 -'  1  0  ~/demostash.txt
 |4,39,1,0,1706082232,"~/demostash.txt"
 -'  1  0  ~/demostash.txt
@@ -69,6 +145,20 @@
 |4,39,1,0,1706082232,"~/demostash.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/demorevert.txt
+	*	1707379268	0
+	"	1	35
+	^	1	36
+	.	1	35
+	+	1	35
+
+> ~/demostash.txt
+	*	1707378473	0
+	"	2	7
+	^	2	8
+	.	2	7
+	+	2	7
 
 > ~/demo123.csv
 	*	1707377795	0
@@ -90,8 +180,3 @@
 	^	1	33
 	.	1	32
 	+	1	32
-
-> ~/demostash.txt
-	*	1706082226	0
-	"	1	0
-	^	1	0

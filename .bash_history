@@ -45,3 +45,39 @@ clear
 sudo su -
 clear
 sudo su -
+clear
+git log
+git tag -a v1.0.0 -m "verion has been upgrated"
+git tag
+clear
+git log
+git show
+git show v1.0.0
+git tag
+git tag -d v1.0.0
+git tag
+git log
+vi demo.csv
+git status
+la -al
+ls -al
+vi .gitignore
+clear
+la -al
+ls -al
+git status
+vi demo123.csv
+git status
+git ls -al
+ls -al
+clear
+git add.
+git commit -m " all commits"
+git add .
+git commit -m "all commits"
+git status
+git demostash,txt
+git demostash.txt
+vi demostash.txt
+git status
+clear
